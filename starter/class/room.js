@@ -61,8 +61,8 @@ class Room {
 
     // Fill this in
 
+  }
 }
-
 module.exports = {
   Room,
 };
